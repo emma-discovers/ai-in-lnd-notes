@@ -31,9 +31,11 @@ AI is not replacing instructors. It is making learning more personalized, timely
 - When does personalization become noise?
 - What does transformation actually look like in metrics?
 
-## Tools I'm exploring
+## What I'm testing right now
 
-ChatGPT · Claude · Cursor · Midjourney
+I'm currently testing UI platforms for learning products: looking for tools that make it fast to build clean, usable interfaces without a full design team.
+
+If you've found something that works well, I'd love a recommendation.
 
 ---
 
