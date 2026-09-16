@@ -19,7 +19,7 @@ Short lessons at the moment of need. Better than scheduled modules, but harder t
 Guiding learners in context. The challenge is trust, cost, and knowing when not to use an agent.
 
 **Vibe-coding for validation**  
-Building prototypes without engineering. Great for testing ideas (not a substitute for a product).
+Building prototypes without engineering. Great for testing hypotheses (not a substitute for a product).
 
 ## How I think about this
 
